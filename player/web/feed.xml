@@ -11,7 +11,7 @@
     <itunes:email>awcyfm@gmail.com</itunes:email>
     <itunes:category text="Comedy" />
     <image>
-      <url>https://feraducatt.github.io/eurekacast/icon/icon.jpg</url>
+      <url>https://feraducatt.github.io/eurekacast/player/web/icons/enc_img.png</url>
       <title>EuerkaCast NOW!</title>
       <link>https://feraducatt.github.io/eurekacast/</link>
     </image>
@@ -22,18 +22,18 @@
     <itunes:keywords>chicago,comedy,jokes,characters,urban,resident,kai,hubris,rowan,meadowlark,technology,science,spiritul,dev,development,meditation,new,normal,newer,tech,code,web,bros,simon,amy,research,disruption,news,sci,</itunes:keywords>
     <copyright>AWCY?-FM</copyright>
     <description>Where science meets technology, meets you. Inspire curiosity: imagine science.</description>
-    <googleplay:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" />
+    <googleplay:image href="https://feraducatt.github.io/eurekacast/player/web/icons/enc_img.png" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Sat, 8 August 2020 10:00:00 CST</pubDate>
-    <link>https://feraducatt.github.io/eurekacast/feed.xml</link>
-    <itunes:image href="https://feraducatt.github.io/eurekacast/icon/ecn_img.png" />
+    <link>https://feraducatt.github.io/eurekacast/player/web/feed.xml</link>
+    <itunes:image href="https://feraducatt.github.io/eurekacast/player/web/icons/enc_img.png" />
     <item>
       <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
       <title>3 EurekaCast NOW! The Common Core in a Newer Normal</title>
       <pubDate>Sat, 8 Aug 2020 11:00:00 GMT</pubDate>
-      <enclosure url="https://feraducatt.github.io/eurekacast/web/audio/3-common_core.mp3" type="audio/mpeg" length="34420000" />
+      <enclosure url="https://feraducatt.github.io/eurekacast/player/web/audio/3-common_core.mp3" type="audio/mpeg" length="34420000" />
       <itunes:duration>57.22</itunes:duration>
       <guid isPermaLink="false">ecn</guid>
       <itunes:explicit>no</itunes:explicit>
