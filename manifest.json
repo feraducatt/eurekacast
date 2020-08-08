@@ -1,0 +1,23 @@
+{
+    "name": "player",
+    "short_name": "player",
+    "start_url": ".",
+    "display": "minimal-ui",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Where science meets technology, meets you. Inspire curiosity: imagine science.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/enc_img.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/ecn_img.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
