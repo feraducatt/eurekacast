@@ -1,5 +1,4 @@
 # Podcast Player
 
-- Podcast RSS Feed: https://rodydavis.github.io/podcast-player/feed.xml
+- Podcast RSS Feed: https://feraducatt.github.io/eurekacast/feed.xml
 
-- Podcast Player: https://rodydavis.github.io/podcast-player/
