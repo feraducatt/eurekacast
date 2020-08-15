@@ -61,7 +61,7 @@ https://rodydavis.github.io/podcast-player/
       <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
       <title>4 EurekaCast NOW! Sweatfast</title>
       <pubDate>Sat, 15 Aug 2020 11:00:00 GMT</pubDate>
-      <enclosure url="https://feraducatt.github.io/eurekacast/audio/4-sweat_fast" type="audio/mpeg" length="35980000" />
+      <enclosure url="https://feraducatt.github.io/eurekacast/audio/4-sweat_fast.mp3" type="audio/mpeg" length="35980000" />
       <itunes:duration>59.58</itunes:duration>
       <guid isPermaLink="false">ecn</guid>
       <itunes:explicit>no</itunes:explicit>
