@@ -32,6 +32,34 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
     <pubDate>Sat, 8 August 2020 10:00:00 CST</pubDate>
     <link>https://feraducatt.github.io/eurekacast/feed.xml</link>
     <itunes:image href="https://raw.githubusercontent.com/feraducatt/eurekacast/master/icons/ecn_icon.png" />
+         <item>
+      <author>Kai Hubris</author>
+      <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
+      <title>11 EurekaCast NOW! Tech Brothers Mask PSA</title>
+      <pubDate> 17, Oct 2020 11:00:00 GMT</pubDate>
+      <enclosure url="https://feraducatt.github.io/eurekacast/audio/11-masks.mp3" type="audio/mpeg" length="33640000" />
+      <itunes:duration>54.00</itunes:duration>
+      <guid isPermaLink="false">ecn009</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+
+The LATEST solutions and innovations in Science, but also Technology.
+Special Feature: Wearing a mask is as important as ever, and the masks designed by Tech Brothers Laboratories are specially designed for optimal immunization. Please do NOT tinker with your mask. You have no idea what you're dealing with.
+
+Originally Aired:  Oct 10, 2020 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL
+
+EurekaCast NOW!
+https://twitter.com/eurekacast
+
+AWCY?-FM -  @awcyfm
+https://twitter.com/AWCYFM
+https://www.facebook.com/AWCYFM
+Email us at awcyfm@gmail.com
+
+Special thanks to:
+https://rodydavis.github.io/creative_engineering
+        </description>
+    </item>
     <item>
       <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
