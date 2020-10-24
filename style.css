@@ -7,8 +7,7 @@
 
  #head_wrapper {
      background-image: linear-gradient(to bottom right, #8B008B, #1b03a3);
-     height:max-content;
-     border-radius: 5pt;
+     height:max-content;     border-radius: 5pt;
      display: flex;
 }
 
@@ -28,7 +27,7 @@
 }
 
 #tb-logo {
-   font-family: 'Share Tech Mono', monospace;
+   font-family: 'Share Tech Mono', monospace, Calibri, sans-serif;
     font-size: 1.5em;
 }
 
@@ -44,7 +43,7 @@
 }
 
 .body-header {
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Bebas Neue', Calibri, sans-serif;
     font-size: 20pt;
     text-align: center;
     margin: 5pt;
