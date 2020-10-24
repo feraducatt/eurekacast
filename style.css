@@ -54,11 +54,29 @@
   margin: 5pt;
 }
 #icons {
-  margin:30pt 5pt;
+  display: flex;
+  justify-content: center;
 }
 
 #icons a img {
-  height:50pt;
-  width: 50pt;
-  margin: 0 33pt;
+  height: 50px;
+  width: 50px;
+  padding:40px;
+  background: none;
+}
+
+@media screen and (max-width: 1000px) {
+#icons a img {
+  height: 50px;
+  width: 50px;
+  padding:20px;
+}
+  }
+
+@media screen and (max-width: 650px) {
+  #icons a img {
+       width: 35px;
+       height:35px;
+       padding:8px;
+  }
 }
