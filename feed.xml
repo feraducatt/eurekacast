@@ -36,7 +36,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
       <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
       <title>13 EurekaCast NOW! Success Stories</title>
-      <pubDate>Wed 28 Oct 2020 16:00:00 GMT</pubDate>
+      <pubDate>Wed, 28 Oct 2020 16:00:00 GMT</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/13-newer_normal_success_stories.mp3" type="audio/mpeg" length="32580000" />
       <itunes:duration>54.17</itunes:duration>
       <guid isPermaLink="false">ecn011</guid>
@@ -71,7 +71,7 @@ Originally Aired:  Oct 24, 2020 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Rad
       <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
       <title>12 EurekaCast NOW! Fiberglass: A Textile for Living</title>
-      <pubDate>Sat 24 Oct 2020 11:00:00 GMT</pubDate>
+      <pubDate>Sat, 24 Oct 2020 11:00:00 GMT</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/12-masks_pt2.mp3" type="audio/mpeg" length="33640000" />
       <itunes:duration>58.49</itunes:duration>
       <guid isPermaLink="false">ecn010</guid>
@@ -99,7 +99,7 @@ https://rodydavis.github.io/creative_engineering
       <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
       <title>11 EurekaCast NOW! Tech Brothers Mask PSA</title>
-      <pubDate>Sat 17 Oct 2020 11:00:00 GMT</pubDate>
+      <pubDate>Sat, 17 Oct 2020 11:00:00 GMT</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/11-masks.mp3" type="audio/mpeg" length="35000000" />
       <itunes:duration>54.00</itunes:duration>
       <guid isPermaLink="false">ecn009</guid>
