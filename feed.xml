@@ -32,7 +32,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
     <pubDate>Sat, 8 August 2020 10:00:00 CST</pubDate>
     <link>https://feraducatt.github.io/eurekacast/feed.xml</link>
     <itunes:image href="https://raw.githubusercontent.com/feraducatt/eurekacast/master/icons/ecn_icon.png" />
-         <item>
+     <item>
       <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
       <title>14 EurekaCast NOW! Innovate Political Analysis</title>
@@ -41,7 +41,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
       <itunes:duration>57.46</itunes:duration>
       <guid isPermaLink="false">ecn012</guid>
       <itunes:explicit>no</itunes:explicit>
-      <description
+      <description>
 
 The LATEST solutions and innovations in Science, but also Technology.
 Special Feature: Science and data are inherently apolitical, as we can all agree. But can we use them to optimize the field? Of course we can! Cast your ballot for Science in this simulcast!
