@@ -32,7 +32,38 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
     <pubDate>Sat, 8 August 2020 10:00:00 CST</pubDate>
     <link>https://feraducatt.github.io/eurekacast/feed.xml</link>
     <itunes:image href="https://raw.githubusercontent.com/feraducatt/eurekacast/master/icons/ecn_icon.png" />
-     <item>
+          <item>
+      <author>Kai Hubris</author>
+      <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
+      <title>15 EurekaCast NOW! Enlightenment Sculpt</title>
+      <pubDate>Wed, 11 Nov 2020 16:00:00 GMT</pubDate>
+      <enclosure url="https://feraducatt.github.io/eurekacast/audio/15-enlightenment_sculpt.mp3" type="audio/mpeg" length="48349000"/>
+      <itunes:duration>53.58</itunes:duration>
+      <guid isPermaLink="false">ecn013</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+
+The LATEST solutions and innovations in Science, but also Technology.
+Special Feature: This week, we discuss the Enlightenment Sculpt: a new revolutionary tool for wellness developed in collaboration between Tech Brothers and the Simon Amy Institute for Spirit Sciences.
+Originally Aired:  Nov 7, 2020 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL
+
+EurekaCast NOW!
+awcyfm.com/eurekacast
+
+Special thanks to:
+https://rodydavis.github.io/creative_engineering
+        </description>
+        <content:encoded>
+<![CDATA[ <p>The LATEST solutions and innovations in Science, but also Technology.<br>
+Special Feature: This week, we discuss the Enlightenment Sculpt: a new revolutionary tool for wellness developed as a collaboration between Tech Brothers and the Simon Amy Institute for Spirit Sciences.<br>
+Originally Aired:  Nov 7, 2020 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL</p>
+<a href="http://awcyfm.com/eurekacast">Visit eurekacast online!</a><br>
+<a href="http://twitter.com/eurekacast">Follow eurekacast on Twitter</a><br>
+<a mailto:"awcyfm@gmail.com">Email us at awcyfm@gmail.com</a>
+]]>
+</content:encoded>
+    </item>
+         <item>
       <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
       <title>14 EurekaCast NOW! Innovate Political Analysis</title>
