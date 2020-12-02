@@ -32,6 +32,37 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
     <pubDate>Sat, 8 August 2020 10:00:00 CST</pubDate>
     <link>https://feraducatt.github.io/eurekacast/feed.xml</link>
     <itunes:image href="https://raw.githubusercontent.com/feraducatt/eurekacast/master/icons/ecn_icon.png" />
+                                        <item>
+      <author>Kai Hubris</author>
+      <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
+      <title>18 EurekaCast NOW! Making the Most of Your Holiday Isolation</title>
+      <pubDate>Wed, 2 December 2020 16:00:00 GMT</pubDate>
+      <enclosure url="https://feraducatt.github.io/eurekacast/audio/18-making_the_most_of_your_holiday_isolation.mp3" type="audio/mpeg" length="50572000"/>
+      <itunes:duration>55.40</itunes:duration>
+      <guid isPermaLink="false">ecn016</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+The LATEST solutions and innovations in Science, but also Technology.
+Special Feature: We're not out of it yet! The holiday season is upon us, bringing with it an increased risk of MALO-21. The Chicago Health and Safety Commission is advising everyone to bunker down and isolate once more. Learn what resources are available for you to make the most out of your isolation!
+Originally Aired:  Nov 28, 2020 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL
+Rebroadcasted: Nov 30, 2020 20:00 - 21:00 CST on WIIT 88.9 FM Chicago, IL
+
+EurekaCast NOW!
+awcyfm.com/eurekacast
+
+Special thanks to:
+https://rodydavis.github.io/creative_engineering
+        </description>
+        <content:encoded>
+<![CDATA[ <p>The LATEST solutions and innovations in Science, but also Technology.<br>
+Special Feature: We're not out of it yet! The holiday season is upon us, bringing with it an increased risk of MALO-21. The Chicago Health and Safety Commission is advising everyone to bunker down and isolate once more. Learn what resources are available for you to make the most out of your isolation!<br>
+Originally Aired:  Nov 28, 2020 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL<br>
+Rebroadcasted: Nov 30, 2020 20:00 - 21:00 CST on WIIT 88.9 FM Chicago, IL</p>
+<a href="http://awcyfm.com/eurekacast">Visit eurekacast online!</a><br>
+<a href="http://twitter.com/eurekacast">Follow eurekacast on Twitter</a><br>
+<a mailto:"awcyfm@gmail.com">Email us at awcyfm@gmail.com</a>
+]]>
+</content:encoded>
                     <item>
       <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
