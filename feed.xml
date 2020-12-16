@@ -35,6 +35,35 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <item>
       <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
+      <title>Promo: The Making of the Newer Normal Holiday Special</title>
+      <pubDate>Wed, 16 December 2020 16:00:00 CST</pubDate>
+      <enclosure url="https://feraducatt.github.io/eurekacast/audio/safer_santa_promo_long.mp3" type="audio/mpeg" length="1923000"/>
+      <itunes:duration>1.32</itunes:duration>
+      <guid isPermaLink="false">ecn019</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+The LATEST solutions and innovations in Science, but also Technology.
+Promo: <i>The Making of the Newer Normal Holiday Special</i>, airing LIVE on <a href="http://lumpenradio.com/">Lumpen Radio<a> on Christmas Eve, Thursday, December 24th, 2020, from 8 to 9 pm CST.
+
+Learn more at: <a href='https://www.awcyfm.com/holiday2020'>awcyfm.com/holiday2020</a>
+
+Special thanks to:
+https://rodydavis.github.io/creative_engineering
+        </description>
+        <content:encoded>
+<![CDATA[ <p>The LATEST solutions and innovations in Science, but also Technology.<br>
+Promo: <i>The Making of the Newer Normal Holiday Special</i>, airing LIVE on <a href="http://lumpenradio.com/">Lumpen Radio<a> on Christmas Eve, Thursday, December 24th, 2020, from 8 to 9 pm CST.
+</p>
+<a href="http://awcyfm.com/holiday2020">Visit the Holiday 2020 landing page to learn more!</a><br>
+<a href="http://twitter.com/eurekacast">Follow eurekacast on Twitter for updates.</a><br>
+<a href="mailto:awcyfm@gmail.com">Email us at awcyfm@gmail.com</a>
+]]>
+</content:encoded>
+</item>
+
+<item>
+      <author>Kai Hubris</author>
+      <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
       <title>19 EurekaCast NOW! The Making of a Solar Punk Military</title>
       <pubDate>Wed, 9 December 2020 16:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/19-a_solar_punk_military.mp3" type="audio/mpeg" length="48696000"/>
