@@ -32,7 +32,42 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
     <pubDate>Sat, 8 August 2020 10:00:00 CST</pubDate>
     <link>https://feraducatt.github.io/eurekacast/feed.xml</link>
     <itunes:image href="https://raw.githubusercontent.com/feraducatt/eurekacast/master/icons/ecn_icon.png" />
+<item>
+      <author>Kai Hubris</author>
+      <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
+      <title>The Making of the Newer Normal Holiday Special</title>
+      <pubDate>Saturday, 25 December 2020 16:00:00 CST</pubDate>
+      <enclosure url="https://feraducatt.github.io/eurekacast/audio/The_Making_of_the_Newer_Normal_Holiday_Special.mp3" type="audio/mpeg" length="55066000"/>
+      <itunes:duration>56.20</itunes:duration>
+      <guid isPermaLink="false">ecn021</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+Special Holiday Stream!
+The Making of the Newer Normal Holiday Special
+The Safer Santa user immersive digital storytelling experience is finally here, and already downloaded on all your guy5 enabled devices. While you are at home experiencing the best holiday AI has to offer, make some time to tune in to hear how two young, innovative tech entrepreneurs are disrupting the holiday special landscape as we know it, and their journey to this monumental achievement.
+Broadcasted: Dec 24, 2020 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL
+Rebroadcasted: Dec 26, 2020 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL and on Dec 28, 2020 20:00 - 21:00 CST on WIIT 88.9 FM Chicago, IL 
 
+EurekaCast NOW!
+awcyfm.com/eurekacast
+
+Special thanks to:
+https://rodydavis.github.io/creative_engineering
+        </description>
+        <content:encoded>
+<![CDATA[ <p>The LATEST solutions and innovations in Science, but also Technology.<br>
+Special Holiday Stream!<br>
+The Making of the Newer Normal Holiday Special<br>
+The Safer Santa user immersive digital storytelling experience is finally here, and already downloaded on all your guy5 enabled devices. While you are at home experiencing the best holiday AI has to offer, make some time to tune in to hear how two young, innovative tech entrepreneurs are disrupting the holiday special landscape as we know it, and their journey to this monumental achievement.<br>
+Broadcasted: Dec 24, 2020 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL<br>
+Rebroadcasted: Dec 26, 2020 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL and on Dec 28, 2020 20:00 - 21:00 CST on WIIT 88.9 FM Chicago, IL 
+</p>
+<a href="http://awcyfm.com/holiday2020">Visit the Holiday 2020 landing page to learn more about our holiday special!</a><br>
+<a href="http://twitter.com/eurekacast">Follow eurekacast on Twitter for updates.</a><br>
+<a href="mailto:awcyfm@gmail.com">Email us at awcyfm@gmail.com</a>
+]]>
+</content:encoded>
+</item>
 <item>
       <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
