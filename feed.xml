@@ -20,17 +20,22 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
       <link>http://feraducatt.github.io/eurekacast</link>
     </image>
     <itunes:owner>
-      <itunes:name>Dee Eff</itunes:name>
+      <itunes:name>AWCY? FM</itunes:name>
       <itunes:email>awcyfm@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:keywords>chicago,comedy,jokes,characters,urban,resident,kai,hubris,rowan,meadowlark,technology,science,spiritul,dev,development,meditation,new,normal,newer,tech,code,web,bros,simon,amy,research,disruption,news,sci,</itunes:keywords>
-    <copyright>AWCY?-FM</copyright>
-    <description>Where science meets technology, meets you. Inspire curiosity: imagine science.</description>
+    <itunes:category text="Science Technology"/>
+    <itunes:new-feed-url>https://feraducatt.github.io/eurekacast/feed.xml</itunes:new-feed-url>
+    <copyright>AWCY? FM</copyright>
+    <description>
+<![CDATA[ <p>Where science meets technology, meets you. Inspire curiosity: imagine science.</p> ]]>
+</description>
+<itunes:type>episodic</itunes:type>
+<itunes:summary>Where science meets technology, meets you. Inspire curiosity: imagine science.</itunes:summary>
     <googleplay:image href="https://raw.githubusercontent.com/feraducatt/eurekacast/master/icons/ecn_icon.png" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
-    <pubDate>Sat, 8 August 2020 10:00:00 CST</pubDate>
-    <link>https://feraducatt.github.io/eurekacast/feed.xml</link>
+    <link>https://awcyfm.com/eurekacast</link>
     <itunes:image href="https://raw.githubusercontent.com/feraducatt/eurekacast/master/icons/ecn_icon.png" />
 <item>
       <author>Kai Hubris</author>
