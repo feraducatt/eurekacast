@@ -42,7 +42,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
       <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
       <title>22 EurekaCast NOW! We Welcome WatchToo</title>
       <pubDate>Wednesday, 27 January 2021 16:00:00 CST</pubDate>
-      <enclosure url="https://feraducatt.github.io/eurekacast/audio/we_welcome_watchtoo.mp3" type="audio/mpeg" length="41350000"/>
+      <enclosure url="https://feraducatt.github.io/eurekacast/audio/22-we_welcome_watchtoo.mp3" type="audio/mpeg" length="41350000"/>
       <itunes:duration>52.32</itunes:duration>
       <guid isPermaLink="false">ecn024</guid>
       <itunes:explicit>no</itunes:explicit>
