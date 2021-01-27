@@ -40,6 +40,39 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
     <item>
       <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
+      <title>22 EurekaCast NOW! We Welcome WatchToo</title>
+      <pubDate>Wednesday, 27 January 2021 16:00:00 CST</pubDate>
+      <enclosure url="https://feraducatt.github.io/eurekacast/audio/we_welcome_watchtoo.mp3" type="audio/mpeg" length="41350000"/>
+      <itunes:duration>52.32</itunes:duration>
+      <guid isPermaLink="false">ecn024</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+The LATEST solutions and innovations in Science, and also Technology.
+Etoli Carouso, Corporate Identity Representative of the popular start-up WatchToo - a tatooed watch, comes on to talk about their disruptive product, and its proprietary, alchemical development.
+Broadcasted: Sat, Jan 23, 2021, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL
+Rebroadcasted: Mon, Jan 25, 2021, 20:00 - 21:00 CST on WIIT 88.9 FM Chicago, IL
+
+EurekaCast NOW!
+awcyfm.com/eurekacast
+
+Special thanks to:
+https://rodydavis.github.io/creative_engineering
+        </description>
+        <content:encoded>
+<![CDATA[ <p>The LATEST solutions and innovations in Science, and also Technology.<br>
+Etoli Carouso, Corporate Identity Representative of the popular start-up WatchToo - a tatooed watch, comes on to talk about their disruptive product, and its proprietary, alchemical development.<br>
+Broadcasted: Sat, Jan 23, 2021, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL<br>
+Rebroadcasted: Mon, Jan 25, 2021, 20:00 - 21:00 CST on WIIT 88.9 FM Chicago, IL 
+</p>
+<a href="http://awcyfm.com/eurekacast">Visit the ECN! homepage.</a><br>
+<a href="http://twitter.com/eurekacast">Follow eurekacast on Twitter for updates.</a><br>
+<a href="mailto:awcyfm@gmail.com">Email us at awcyfm@gmail.com</a>
+]]>
+</content:encoded>
+</item>
+    <item>
+      <author>Kai Hubris</author>
+      <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
       <title>21 EurekaCast NOW! Tips for Discussing the Vaccines</title>
       <pubDate>Wednesday, 20 January 2021 16:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/21-tips_for_discussing_the_vaccine.mp3" type="audio/mpeg" length="47031000"/>
