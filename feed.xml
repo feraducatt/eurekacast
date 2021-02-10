@@ -37,6 +37,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
     <itunes:explicit>no</itunes:explicit>
     <link>https://awcyfm.com/eurekacast</link>
     <itunes:image href="https://raw.githubusercontent.com/feraducatt/eurekacast/master/icons/ecn_icon.png" />
+        <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
       <title>24 EurekaCast NOW! Chrono-Consultancy</title>
