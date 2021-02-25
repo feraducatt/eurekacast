@@ -42,7 +42,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
       <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
       <title>26 EurekaCast NOW! Making Data Sexy</title>
       <pubDate>Wednesday, 24 February 2021 16:00:00 CST</pubDate>
-      <enclosure url="https://feraducatt.github.io/eurekacast/audio/25-relationship-science.mp3" type="audio/mpeg" length="45994000"/>
+      <enclosure url="https://feraducatt.github.io/eurekacast/audio/26-making_data_sexy.mp3" type="audio/mpeg" length="45994000"/>
       <itunes:duration>53.42</itunes:duration>
       <guid isPermaLink="false">ecn028</guid>
       <itunes:explicit>no</itunes:explicit>
