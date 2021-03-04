@@ -40,6 +40,39 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
      <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
+      <title>27 EurekaCast NOW! Optimize Your Lounging</title>
+      <pubDate>March, 3 February 2021 16:00:00 CST</pubDate>
+      <enclosure url="https://feraducatt.github.io/eurekacast/audio/27-optimize_your_lounging.mp3" type="audio/mpeg" length="37129000"/>
+      <itunes:duration>54.18</itunes:duration>
+      <guid isPermaLink="false">ecn029</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+The LATEST solutions and innovations in Science, and also Technology.
+Not all lounging is created equal! Even if you're not sleep deprived, chances are, you are lounge deprived! Learn how much lounging you actually need to be productive, and what you can do to make sure you're getting the best lounge you can get!
+Broadcasted: Sat, Feb 27, 2021, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL
+Rebroadcasted: Mon, March 1, 2021, 20:00 - 21:00 CST on WIIT 88.9 FM Chicago, IL
+
+EurekaCast NOW!
+awcyfm.com/eurekacast
+
+Special thanks to:
+https://rodydavis.github.io/creative_engineering
+        </description>
+        <content:encoded>
+<![CDATA[ <p>The LATEST solutions and innovations in Science, and also Technology.<br>
+Not all lounging is created equal! Even if you're not sleep deprived, chances are, you are lounge deprived! Learn how much lounging you actually need to be productive, and what you can do to make sure you're getting the best lounge you can get! <br>
+Broadcasted: Sat, Feb 27, 2021, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL <br>
+Rebroadcasted: Mon, March 1, 2021, 20:00 - 21:00 CST on WIIT 88.9 FM Chicago, IL
+</p>
+<a href="https://www.awcyfm.com/eurekacast">Visit the ECN! homepage.</a><br>
+<a href="https://www.twitter.com/eurekacast">Follow eurekacast on Twitter for updates.</a><br>
+<a href="mailto:awcyfm@gmail.com">Email us at awcyfm@gmail.com</a>
+]]>
+</content:encoded>
+</item>
+     <item>
+        <author>Kai Hubris</author>
+      <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
       <title>26 EurekaCast NOW! Making Data Sexy</title>
       <pubDate>Wednesday, 24 February 2021 16:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/26-making_data_sexy.mp3" type="audio/mpeg" length="45994000"/>
