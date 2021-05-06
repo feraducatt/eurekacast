@@ -23,12 +23,12 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
       <itunes:name>AWCY? FM</itunes:name>
       <itunes:email>awcyfm@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:keywords>chicago,comedy,jokes,characters,urban,resident,kai,hubris,rowan,meadowlark,technology,science,spiritul,dev,development,meditation,new,normal,newer,tech,code,web,bros,simon,amy,research,disruption,news,sci,</itunes:keywords>
+    <itunes:keywords>science, technology, news, comedy</itunes:keywords>
     <itunes:category text="Science Technology"/>
     <itunes:new-feed-url>https://feraducatt.github.io/eurekacast/feed.xml</itunes:new-feed-url>
     <copyright>AWCY? FM</copyright>
     <description>
-<![CDATA[ <p>Where science meets technology, meets you. Inspire curiosity: imagine science.</p> ]]>
+<![CDATA[ <p>The latest science</p> ]]>
 </description>
 <itunes:type>episodic</itunes:type>
 <itunes:summary>Where science meets technology, meets you. Inspire curiosity: imagine science.</itunes:summary>
@@ -37,6 +37,39 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
     <itunes:explicit>no</itunes:explicit>
     <link>https://awcyfm.com/eurekacast</link>
     <itunes:image href="https://raw.githubusercontent.com/feraducatt/eurekacast/master/icons/ecn_icon.png" />
+     <item>
+        <author>Kai Hubris</author>
+      <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
+      <title>34 EurekaCast NOW! Film Science Awards Week </title>
+      <pubDate>Wednesday, 5 May 2021 16:00:00 CST</pubDate>
+      <enclosure url="https://feraducatt.github.io/eurekacast/audio/34-excellence_in_film_science_awards.mp3" type="audio/mpeg" length="53683000"/>
+      <itunes:duration>54.17</itunes:duration>
+      <guid isPermaLink="false">ecn036</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+The LATEST news in Science, and also Technology.
+NEW STATE OF MATTER CONFIRMED? WHAT WE KNOW NOW ABOUT LIGHT DUST, AND OCTIPII CONFIRMED TO EXPERIENCE EMOTIONAL PAIN: WELL, IT’S ABOUT TIME. IT’S AWARD SEASON! HEAR ABOUT ALL THE BIG WINNERS IN OUR SECOND HALF. 
+Broadcasted: Sat, April 24, 2021, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL
+Rebroadcasted: Mon, April 26, 2021, 20:00 - 21:00 CST on WIIT 88.9 FM Chicago, IL
+
+EurekaCast NOW!
+awcyfm.com/eurekacast
+
+Special thanks to:
+https://rodydavis.github.io/creative_engineering
+        </description>
+        <content:encoded>
+<![CDATA[ <p>The LATEST news in Science, and also Technology.
+NEW STATE OF MATTER CONFIRMED? WHAT WE KNOW NOW ABOUT LIGHT DUST, AND OCTIPII CONFIRMED TO EXPERIENCE EMOTIONAL PAIN: WELL, IT’S ABOUT TIME. IT’S AWARD SEASON! HEAR ABOUT ALL THE BIG WINNERS IN OUR SECOND HALF.<br>
+Broadcasted: Sat, April 24, 2021, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL<br>
+Rebroadcasted: Mon, April 26, 2021, 20:00 - 21:00 CST on WIIT 88.9 FM Chicago, IL
+</p>
+<a href="https://www.awcyfm.com/eurekacast">Visit the ECN! homepage.</a><br>
+<a href="https://www.twitter.com/eurekacast">Follow eurekacast on Twitter for updates.</a><br>
+<a href="mailto:awcyfm@gmail.com">Email us at awcyfm@gmail.com</a>
+]]>
+</content:encoded>
+</item>
      <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
