@@ -41,7 +41,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
       <title>35 EurekaCast NOW! Introducing the New Collaborative Virtual Thinkspace</title>
-      <pubDate>Wednesday, 12 May 2021 16:00:00 CST</pubDate>
+      <pubDate>Wednesday, 16 June 2021 16:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/36-collaborative_virtual_thinkspace.mp3" type="audio/mpeg" length="70738000"/>
       <itunes:duration>59.02.00</itunes:duration>
       <guid isPermaLink="false">ecn038</guid>
