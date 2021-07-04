@@ -40,6 +40,37 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
     <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
+      <title>38 EurekaCast NOW! Cybersecurity Expert Katherine "The Cougar" Davies on CyberClamp™</title>
+      <pubDate>Saturday, 4 July 2021 16:00:00 CST</pubDate>
+      <enclosure url="https://feraducatt.github.io/eurekacast/audio/audio\38-conversation_with_ katherine_the_cougar_davies_from_cyberclampTM.mp3" type="audio/mpeg" length="48728000"/>
+      <itunes:duration>51.58.00</itunes:duration>
+      <guid isPermaLink="false">ecn40</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+The LATEST news in Science, and also Technology.
+Kai has once again failed to show up in the studio so we've brought in cybersecurity expert Katherine "The Cougar" Davies to talk about new identity protection service CyberClamp™ which touts "Unblinking total and utter vigilance on your identity". Cool!
+Broadcasted: Sat, June 19, 2021, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL
+
+EurekaCast NOW!
+awcyfm.com/eurekacast
+
+Special thanks to:
+https://rodydavis.github.io/creative_engineering
+        </description>
+                <content:encoded>
+<![CDATA[ <p>The LATEST news in Science, and also Technology.
+Kai has once again failed to show up in the studio so we've brought in cybersecurity expert Katherine "The Cougar" Davies to talk about new identity protection service CyberClamp™ which touts "Unblinking total and utter vigilance on your identity". Cool!<br>
+Broadcasted: Sat, June 19, 2021, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL
+</p>
+<a href="https://www.awcyfm.com/eurekacast">Visit the ECN! homepage.</a><br>
+<a href="https://www.twitter.com/eurekacast">Follow eurekacast on Twitter for updates.</a><br>
+<a href="mailto:awcyfm@gmail.com">Email us at awcyfm@gmail.com</a>
+]]>
+</content:encoded>
+</item>
+    <item>
+        <author>Kai Hubris</author>
+      <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
       <title>37 EurekaCast NOW! Dr. Knobbler Is Not Who He Says He Is</title>
       <pubDate>Saturday, 4 July 2021 16:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/37-knobbler_is_not_who_he_says_he_is.mp3" type="audio/mpeg" length="70738000"/>
