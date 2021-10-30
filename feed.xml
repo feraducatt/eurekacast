@@ -42,7 +42,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
       <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
       <title>39 EurekaCast NOW! The Sigma Grindset: The Science of Success</title>
       <pubDate>Friday, 29 October 2021 08:00:00 CST</pubDate>
-      <enclosure url="https://feraducatt.github.io/eurekacast/audio/audio/39-tips-for-success.mp3" type="audio/mpeg" length="58415000"/>
+      <enclosure url="https://feraducatt.github.io/eurekacast/audio/39-tips-for-success.mp3" type="audio/mpeg" length="58415000"/>
       <itunes:duration>49.50.00</itunes:duration>
       <guid isPermaLink="false">ecn41</guid>
       <itunes:explicit>no</itunes:explicit>
