@@ -42,7 +42,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
       <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
       <title>40 EurekaCast NOW! BLOODLETTR: The Future of Medical Crowdfunding</title>
       <pubDate>Monday, 12 November 2021 08:00:00 CST</pubDate>
-      <enclosure url="https://feraducatt.github.io/C:\Users\renow\Documents\GitHub\eurekacast\audio\40-bloodlettr_the_future_of_medical_crowd_funding.mp3" type="audio/mpeg" length="56012000"/>
+      <enclosure url="https://feraducatt.github.io/eurekacast/audio/40-bloodlettr_the_future_of_medical_crowd_funding.mp3" type="audio/mpeg" length="56012000"/>
       <itunes:duration>50.06.00</itunes:duration>
       <guid isPermaLink="false">ecn42</guid>
       <itunes:explicit>no</itunes:explicit>
