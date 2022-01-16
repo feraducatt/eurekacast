@@ -40,6 +40,39 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
  <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
+      <title>The Scouring of Santa Claus, Indiana</title>
+      <pubDate>Sunday, 16 January 2022 08:00:00 CST</pubDate>
+      <enclosure url="https://feraducatt.github.io/eurekacast/audio/santa_claus_indiana_2022.mp3" type="audio/mpeg" length="60645000"/>
+      <itunes:duration>00.58.07.00</itunes:duration>
+      <guid isPermaLink="false">ecn45</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+The LATEST news in Science, and also Technology.
+Underneath the rollin' waves of the Holiday World Surfin' Safari theme park in the small town of Santa Claus, Indiana lies the compacted wreckage of one of the deadliest and most horrific industrial disasters in United States history. On that holy night, Christmas Eve, 1932, over 200 men, women, children, and innocent tourists met their grisly demise in a candy inferno that laid ruin to the nearly 4,000 acre manufacturing township.
+Thanks to state-of-the-art technological developments in ground penetrating radar, magnetic core analysis, and cutting-edge simulations provided by Tech Brothers DisasLabs, for the first time ever, you will hear the true story of that fateful night. In this program, we will recount every mistake, every blunder, and every devastating event. Paired with never before heard first-hand accounts read by voice actors, and an exclusive interview with a survivor of the tragedy in an AWCY FM special holiday documentary event: THE SCOURING OF SANTA CLAUS. 
+Broadcasted: Sat, January 1st and 8th, 2022, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL
+
+EurekaCast NOW!
+awcyfm.com/eurekacast
+
+Special thanks to:
+https://rodydavis.github.io/creative_engineering
+        </description>
+                <content:encoded>
+<![CDATA[ <p>The LATEST news in Science, and also Technology.<br>
+Underneath the rollin' waves of the Holiday World Surfin' Safari theme park in the small town of Santa Claus, Indiana lies the compacted wreckage of one of the deadliest and most horrific industrial disasters in United States history. On that holy night, Christmas Eve, 1932, over 200 men, women, children, and innocent tourists met their grisly demise in a candy inferno that laid ruin to the nearly 4,000 acre manufacturing township.<br>
+Thanks to state-of-the-art technological developments in ground penetrating radar, magnetic core analysis, and cutting-edge simulations provided by Tech Brothers DisasLabs, for the first time ever, you will hear the true story of that fateful night. In this program, we will recount every mistake, every blunder, and every devastating event. Paired with never before heard first-hand accounts read by voice actors, and an exclusive interview with a survivor of the tragedy in an AWCY FM special holiday documentary event: THE SCOURING OF SANTA CLAUS.<br>
+Broadcasted: Sat, January 1st and 8th, 2022, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL
+</p>
+<a href="https://www.awcyfm.com/eurekacast">Visit the ECN! homepage.</a><br>
+<a href="https://www.twitter.com/eurekacast">Follow eurekacast on Twitter for updates.</a><br>
+<a href="mailto:awcyfm@gmail.com">Email us at awcyfm@gmail.com</a>
+]]>
+</content:encoded>
+</item>
+ <item>
+        <author>Kai Hubris</author>
+      <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
       <title>42 EurekaCast NOW! The Omnicron Variant</title>
       <pubDate>Monday, 13 December 2021 08:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/42-the_omnicron_variant.mp3" type="audio/mpeg" length="58762000"/>
