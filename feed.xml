@@ -40,6 +40,37 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
  <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
+      <title>43 EurekaCast NOW! The James Webbisode</title>
+      <pubDate>Sunday, 23 January 2022 08:00:00 CST</pubDate>
+      <enclosure url="https://feraducatt.github.io/eurekacast/audio/43-the_james_webbisode.mp3" type="audio/mpeg" length="60645000"/>
+      <itunes:duration>00.53.22.00</itunes:duration>
+      <guid isPermaLink="false">ecn46</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+The LATEST news in Science, and also Technology.
+On this episode: The James Webb Space Telescope! You’ve heard about it, longed for it, and maybe even a little more. Learn the science behind what it’s looking for, the spiritual engineering that went into it, and see, in a twitch stream exclusive, the first pictures to come from it.
+Broadcasted: Sat, January 15th, 2022, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL
+
+EurekaCast NOW!
+awcyfm.com/eurekacast
+
+Special thanks to:
+https://rodydavis.github.io/creative_engineering
+        </description>
+                <content:encoded>
+<![CDATA[ <p>The LATEST news in Science, and also Technology.<br>
+On this episode: The James Webb Space Telescope! You’ve heard about it, longed for it, and maybe even a little more. Learn the science behind what it’s looking for, the spiritual engineering that went into it, and see, in a twitch stream exclusive, the first pictures to come from it.<br>
+Broadcasted: Sat, January 15th, 2022, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL
+</p>
+<a href="https://www.awcyfm.com/eurekacast">Visit the ECN! homepage.</a><br>
+<a href="https://www.twitter.com/eurekacast">Follow eurekacast on Twitter for updates.</a><br>
+<a href="mailto:awcyfm@gmail.com">Email us at awcyfm@gmail.com</a>
+]]>
+</content:encoded>
+</item>
+ <item>
+        <author>Kai Hubris</author>
+      <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
       <title>The Scouring of Santa Claus, Indiana</title>
       <pubDate>Sunday, 16 January 2022 08:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/santa_claus_indiana_2022.mp3" type="audio/mpeg" length="60645000"/>
