@@ -40,6 +40,37 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
  <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
+      <title>47 EurekaCast NOW! Changing the Game</title>
+      <pubDate>Sunday, 3 April 2022 08:00:00 CST</pubDate>
+      <enclosure url="https://feraducatt.github.io/eurekacast/audio/47-changing_the_game_1.mp3" type="audio/mpeg" length="30679000"/>
+      <itunes:duration>00.52.21.00</itunes:duration>
+      <guid isPermaLink="false">ecn50</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+The LATEST news in Science, and also Technology.
+On tonight’s episode of EurekaCast Now: Changing the Game, stories about play. Learn about the newest trauma-informed games hitting the shelves soon, natural alternatives to commonly dangerous toys, and a special live play of a brand new TTRPG: Legend of the Overrune! 
+Broadcasted: Sat, March 19th, 2022, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL
+
+EurekaCast NOW!
+awcyfm.com/eurekacast
+
+Special thanks to:
+https://rodydavis.github.io/creative_engineering
+        </description>
+                <content:encoded>
+<![CDATA[ <p>The LATEST news in Science, and also Technology.<br>
+On tonight’s episode of EurekaCast Now: Changing the Game, stories about play. Learn about the newest trauma-informed games hitting the shelves soon, natural alternatives to commonly dangerous toys, and a special live play of a brand new TTRPG: Legend of the Overrune!<br> 
+Broadcasted: Sat, March 19th, 2022, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL
+</p>
+<a href="https://www.awcyfm.com/eurekacast">Visit the ECN! homepage.</a><br>
+<a href="https://www.twitter.com/eurekacast">Follow eurekacast on Twitter for updates.</a><br>
+<a href="mailto:awcyfm@gmail.com">Email us at awcyfm@gmail.com</a>
+]]>
+</content:encoded>
+</item>
+ <item>
+        <author>Kai Hubris</author>
+      <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
       <title>46 EurekaCast NOW! Chasing the Nuclear Storm</title>
       <pubDate>Sunday, 27 March 2022 08:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/46-chasing_the_nuclear_storm.mp3" type="audio/mpeg" length="34698000"/>
