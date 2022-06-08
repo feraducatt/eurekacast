@@ -42,7 +42,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
       <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
       <title>52 EurekaCast NOW! Dr. Dolomite Teaches Children How To Survive</title>
       <pubDate>Sunday, 5 June 2022 12:00:00 CST</pubDate>
-      <enclosure url="https://feraducatt.github.io/eurekacast/audio/52-dr-dolomite.mp3" type="audio/mpeg" length="58137000"/>
+      <enclosure url="https://feraducatt.github.io/eurekacast/audio/52-dr_dolomite.mp3" type="audio/mpeg" length="58137000"/>
       <itunes:duration>00.53.05.00</itunes:duration>
       <guid isPermaLink="false">ecn55</guid>
       <itunes:explicit>no</itunes:explicit>
