@@ -37,12 +37,44 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
     <itunes:explicit>no</itunes:explicit>
     <link>https://awcyfm.com/eurekacast</link>
     <itunes:image href="https://raw.githubusercontent.com/feraducatt/eurekacast/master/icons/ecn_icon.png" />
- <item>
+<item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
-      <title>52 EurekaCast NOW! Dr. Dolomite Teaches Children How To Survive</title>
+      <title>53 EurekaCast NOW! Shattering Regimes</title>
+      <pubDate>Sunday, 19 June 2022 12:00:00 CST</pubDate>
+      <enclosure url="https://feraducatt.github.io/eurekacast/audio/53-shattering_regimes.mp3" type="audio/mpeg" length="62634000"/>
+      <itunes:duration>00.50.52.00</itunes:duration>
+      <guid isPermaLink="false">ecn56</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+The LATEST news in Science, and also Technology.
+On tonight’s episode of EurekaCast Now: recent experiments cast doubt on our understanding of physics, if we can’t understand THE UNIVERSE how do we know we even understand THE INTERNET?? How do we know if we understand what MICROPLASTICS do to our bodies??? Regimes WILL BE shattered live this evening.  
+Broadcasted: Sat, April 30th, 2022, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL
+<a href="https://www.youtube.com/channel/UChHooyjce7L8gsJE0V-Mpfw">Check out the audio with the slides on our youtube!</a>
+
+EurekaCast NOW!
+awcyfm.com/eurekacast
+
+Special thanks to:
+https://rodydavis.github.io/creative_engineering
+        </description>
+                <content:encoded>
+<![CDATA[ <p>The LATEST news in Science, and also Technology.
+On tonight’s episode of EurekaCast Now: recent experiments cast doubt on our understanding of physics, if we can’t understand THE UNIVERSE how do we know we even understand THE INTERNET?? How do we know if we understand what MICROPLASTICS do to our bodies??? Regimes WILL BE shattered live this evening.<br>  
+Broadcasted: Sat, April 30th, 2022, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL<a href="https://www.youtube.com/channel/UChHooyjce7L8gsJE0V-Mpfw">Check out the audio with the slides on our Youtube!</a><br>
+</p>
+<a href="https://www.awcyfm.com/eurekacast">Visit the ECN! homepage.</a><br>
+<a href="https://www.twitter.com/eurekacast">Follow eurekacast on Twitter for updates.</a><br>
+<a href="mailto:awcyfm@gmail.com">Email us at awcyfm@gmail.com</a>
+]]>
+</content:encoded>
+</item>
+<item>
+        <author>Kai Hubris</author>
+      <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
+      <title>52 EurekaCast NOW! Dr. Dolomite Teaches Children How To Survive </title>
       <pubDate>Sunday, 5 June 2022 12:00:00 CST</pubDate>
-      <enclosure url="https://feraducatt.github.io/eurekacast/audio/52-dr-dolomite.mp3" type="audio/mpeg" length="58137000"/>
+      <enclosure url="https://feraducatt.github.io/eurekacast/audio/52-dr_dolomite.mp3" type="audio/mpeg" length="58137000"/>
       <itunes:duration>00.53.05.00</itunes:duration>
       <guid isPermaLink="false">ecn55</guid>
       <itunes:explicit>no</itunes:explicit>
