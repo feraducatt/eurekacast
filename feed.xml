@@ -40,6 +40,40 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
+      <title>58 EurekaCast NOW! Books</title>
+      <pubDate>Sunday, 09 September 2022 22:00:00 CST</pubDate>
+      <enclosure url="https://feraducatt.github.io/eurekacast/audio/58-books.mp3" type="audio/mpeg" length="73,4699,000"/>
+      <itunes:duration>00.57.12.00</itunes:duration>
+      <guid isPermaLink="false">ecn61</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+The LATEST news in Science, and also Technology.
+The image of knowledge has long been associated with the tome. Big, leatherbound, and musty: some would say the book is anachronistic, but not us at EurekaCast NOW! For tonight’s show we celebrate literature and invite to the program our first guest of the season: Cygne Windmill author of "Unmasking the Demiurge: What Every Woman Needs to Know"
+Broadcasted: Sat, September 17th, 2022, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL
+
+EurekaCast NOW!
+awcyfm.com/eurekacast
+
+Special thanks to:
+https://rodydavis.github.io/creative_engineering
+        </description>
+                <content:encoded>
+<![CDATA[ <p>The LATEST news in Science, and also Technology.
+The image of knowledge has long been associated with the tome. Big, leatherbound, and musty: some would say the book is anachronistic, but not us at EurekaCast NOW! For tonight’s show we celebrate literature and invite to the program our first guest of the season: Cygne Windmill author of "Unmasking the Demiurge: What Every Woman Needs to Know"<br>
+Broadcasted: Sat, September 17th, 2022, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL<br>
+
+<a href="https://www.youtube.com/channel/UChHooyjce7L8gsJE0V-Mpfw">Check out the audio with the slides on our youtube!</a>
+
+</p>
+<a href="https://www.awcyfm.com/eurekacast">Visit the ECN! homepage.</a><br>
+<a href="https://www.twitter.com/eurekacast">Follow eurekacast on Twitter for updates.</a><br>
+<a href="mailto:awcyfm@gmail.com">Email us at awcyfm@gmail.com</a>
+]]>
+</content:encoded>
+</item>
+<item>
+        <author>Kai Hubris</author>
+      <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
       <title>57 EurekaCast NOW! Metropolis</title>
       <pubDate>Sunday, 02 September 2022 22:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/57-metropolis.mp3" type="audio/mpeg" length="72,910,634"/>
