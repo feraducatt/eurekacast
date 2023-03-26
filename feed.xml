@@ -42,7 +42,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
       <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
       <title>70 EurekaBeast NOW!</title>
       <pubDate>Sunday, 26 March 2023 23:00:00 CST</pubDate>
-      <enclosure url="https://feraducatt.github.io/eurekacast/audio/70-mr_beast.mp3" type="audio/mpeg" length="64,984,000"/>
+      <enclosure url="https://feraducatt.github.io/eurekacast/audio/70-mr_beast.mp3" type="audio/mpeg" length="70,526,000"/>
       <itunes:duration>00.57.59.00</itunes:duration>
       <guid isPermaLink="false">ecn74</guid>
       <itunes:explicit>no</itunes:explicit>
