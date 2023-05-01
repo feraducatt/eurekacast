@@ -40,6 +40,40 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
+      <title>73 EurekaCast NOW! Hacktivism </title>
+      <pubDate>Saturday, 30 April 2023 12:00:00 CST</pubDate>
+      <enclosure url="https://feraducatt.github.io/eurekacast/audio/73-hacktivism.mp3" type="audio/mpeg" length="53,468,000"/>
+      <itunes:duration>00.48.59.00</itunes:duration>
+      <guid isPermaLink="false">ecn77</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+The LATEST news in Science, and also Technology.
+Leaks and murders, griefing and debriefing: HACKTIVISM is the word of the day as SHOCKING EVENTS bubble up in our information age. Like it or not, they're here to stay: but are these rogue agents MARTYRS or MENACES? Kai and Rowan debate the facts tonight!
+Broadcasted: Sat, April 15th, 2023, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL and <a href="https://www.twitch.tv/awcyfm">twitch.tv/awcyfm</a>
+
+EurekaCast NOW!
+awcyfm.com/eurekacast
+
+Special thanks to:
+https://rodydavis.github.io/creative_engineering
+        </description>
+                <content:encoded>
+<![CDATA[ <p>The LATEST news in Science, and also Technology.
+Leaks and murders, griefing and debriefing: HACKTIVISM is the word of the day as SHOCKING EVENTS bubble up in our information age. Like it or not, they're here to stay: but are these rogue agents MARTYRS or MENACES? Kai and Rowan debate the facts tonight!<br>
+Broadcasted: Sat, April 15th, 2023, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL and <a href="https://www.twitch.tv/awcyfm">twitch.tv/awcyfm</a>
+
+<a href="https://www.youtube.com/channel/UChHooyjce7L8gsJE0V-Mpfw">Check out the audio with the slides on our youtube!</a>
+
+</p>
+<a href="https://www.awcyfm.com/eurekacast">Visit the ECN! homepage.</a><br>
+<a href="https://www.twitter.com/eurekacast">Follow eurekacast on Twitter for updates.</a><br>
+<a href="mailto:awcyfm@gmail.com">Email us at awcyfm@gmail.com</a>
+]]>
+</content:encoded>
+</item>
+<item>
+        <author>Kai Hubris</author>
+      <itunes:author>Kai Hubris, Rowan Meadowlark, AWCY?-FM</itunes:author>
       <title>72 EurekaCast NOW! Brian Urlacher: What Happened to Sacking the Vote? </title>
       <pubDate>Saturday, 22 April 2023 12:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/72-what_happened_to_urlacher.mp3" type="audio/mpeg" length="66,853,000"/>
