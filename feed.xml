@@ -10,13 +10,13 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
     <rawvoice:rating>TV-PG13</rawvoice:rating>
     <rawvoice:location>Chicago, IL</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
-    <author>Kai Hubris, Rowan Meadowlark</author>
-    <itunes:author>Dee Eff</itunes:author>
+    <author>AWCY FM, Cam Smedley, R. Sponsors</author>
+    <itunes:author>AWCY FM</itunes:author>
     <itunes:email>awcyfm@gmail.com</itunes:email>
-    <itunes:category text="Science and Technology" />
+    <itunes:category text="News, Politics, Comedy" />
     <image>
       <url>https://raw.githubusercontent.com/feraducatt/eurekacast/master/icons/ecn_icon.png</url>
-      <title>EuerkaCast NOW!</title>
+      <title>AWCY FM</title>
       <link>http://feraducatt.github.io/eurekacast</link>
     </image>
     <itunes:owner>
@@ -26,7 +26,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
     <itunes:keywords>science, technology, news, comedy, politics</itunes:keywords>
     <itunes:category text="News Comedy"/>
     <itunes:new-feed-url>https://feraducatt.github.io/eurekacast/feed.xml</itunes:new-feed-url>
-    <copyright>AWCY? FM</copyright>
+    <copyright>AWCY FM</copyright>
     <description>
 <![CDATA[ <p>Your news & interest, Chicago</p> ]]>
 </description>
@@ -42,7 +42,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
       <itunes:author>AWCY?-FM</itunes:author>
       <title>1 Minds on the Masters: Dr. Closuit</title>
       <pubDate>Sunday, 19 November 2023 18:00:00 CST</pubDate>
-      <enclosure url="https://feraducatt.github.io/eurekacast/audio/MindOnTheMasters0.mp3" type="audio/mpeg" length="52,040,000"/>
+      <enclosure url="https://feraducatt.github.io/eurekacast/audio/MindsOnTheMasters0.mp3" type="audio/mpeg" length="52,040,000"/>
       <itunes:duration>00.42.32.00</itunes:duration>
       <guid isPermaLink="false">ecn79</guid>
       <itunes:explicit>no</itunes:explicit>
