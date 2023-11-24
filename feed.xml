@@ -40,11 +40,35 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <item>
         <author>AWCY FM</author>
       <itunes:author>AWCY FM</itunes:author>
+      <title>2 Minds on the Masters: Gorgo Starr</title>
+      <pubDate>Saturday, 25 November 2023 00:00:00 CST</pubDate>
+      <enclosure url="https://feraducatt.github.io/eurekacast/audio/motm2-gorgo_starr.mp3" type="audio/mpeg" length="44,910,000"/>
+      <itunes:duration>00.49.49.00</itunes:duration>
+      <guid isPermaLink="false">motm2</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+Hey man, I'm Jeff Minds. On my show, I talk to some of the best out there in art, science, and living authentically; as long as they respond to my emails.
+This week, I interview Gorgo Starr: the step-brother of Ringo Starr and considered, by real fans to be the 5th member of the Beatles. And yes, we go there.
+Broadcasted: Sat, October 7th, 2023, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL 
+<a href="https://www.twitch.tv/awcyfm">twitch.tv/awcyfm</a>
+        </description>
+                <content:encoded>
+<![CDATA[ <p>
+Hey man, I'm Jeff Minds. On my show, I talk to some of the best out there in art, science, and living authentically; as long as they respond to my emails.<br>
+This week, I interview Gorgo Starr: the step-brother of Ringo Starr and considered, by real fans to be the 5th member of the Beatles. And yes, we go there.
+Broadcasted: Sat, October 7th, 2023, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL 
+<a href="https://www.twitch.tv/awcyfm">twitch.tv/awcyfm</a>
+]]>
+</content:encoded>
+</item>
+<item>
+        <author>AWCY FM</author>
+      <itunes:author>AWCY FM</itunes:author>
       <title>1 Minds on the Masters: Dr. Closuit</title>
       <pubDate>Friday, 24 November 2023 00:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/motm1-dr_closuit.mp3" type="audio/mpeg" length="52,040,000"/>
       <itunes:duration>00.42.32.00</itunes:duration>
-      <guid isPermaLink="false">ecn79</guid>
+      <guid isPermaLink="false">motm1</guid>
       <itunes:explicit>no</itunes:explicit>
       <description>
 Hey man, I'm Jeff Minds. On my show, I talk to some of the best out there in art, science, and living authentically; as long as they respond to my emails.
