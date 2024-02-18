@@ -81,12 +81,13 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
         <a href="https://www.twitch.tv/awcyfm">twitch.tv/awcyfm</a>
         </description>
         <content:encoded>
-        <![CDATA[ <p>
-        Hey man, I'm Jeff Minds. On my show, I talk to some of the best out there in art, science, and living authentically; as long as they respond to my emails.<br>
-        This week, I've got the new media WINfluencer and mindset coordinator Kai Hubris. The man works, you've got to admit it.<br>
-        Broadcasted: Sat, November, 4th, 2023, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL 
-        <a href="https://www.twitch.tv/awcyfm">twitch.tv/awcyfm</a>
-        </p>
+        <![CDATA[ 
+                <p>
+                Hey man, I'm Jeff Minds. On my show, I talk to some of the best out there in art, science, and living authentically; as long as they respond to my emails.<br>
+                This week, I've got the new media WINfluencer and mindset coordinator Kai Hubris. The man works, you've got to admit it.<br>
+                Broadcasted: Sat, November, 4th, 2023, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL 
+                <a href="https://www.twitch.tv/awcyfm">twitch.tv/awcyfm</a>
+                </p>
         ]]>
         </content:encoded>
 </item>
