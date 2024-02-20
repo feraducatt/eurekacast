@@ -100,7 +100,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
       <itunes:duration>00.49.49.00</itunes:duration>
       <guid isPermaLink="false">motm2</guid>
       <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="http://feraducatt.github.io/eurekacast/img/motm_img.jpg">
+        <itunes:image href="http://feraducatt.github.io/eurekacast/img/motm_img.jpg"></itunes:image>
       <description>
 Hey man, I'm Jeff Minds. On my show, I talk to some of the best out there in art, science, and living authentically; as long as they respond to my emails.
 This week, I interview Gorgo Starr: the step-brother of Ringo Starr and considered, by real fans to be the 5th member of the Beatles. And yes, we go there.
@@ -125,7 +125,7 @@ Broadcasted: Sat, October 7th, 2023, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpe
       <itunes:duration>00.42.32.00</itunes:duration>
       <guid isPermaLink="false">motm1</guid>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/motm_img.jpg">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/motm_img.jpg"></itunes:image>
 Hey man, I'm Jeff Minds. On my show, I talk to some of the best out there in art, science, and living authentically; as long as they respond to my emails.
 This week, I interview Dr Closuit: hetrodox physicist. It's a headtrip.
 Broadcasted: Sat, September 30th, 2023, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL 
@@ -143,7 +143,7 @@ Broadcasted: Sat, September 30th, 2023, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lu
 <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>74 EurekaCast NOW! The AI Episode </title>
       <pubDate>Friday, 4 August 2023 10:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/74-the_ai_episode.mp3" type="audio/mpeg" length="63,942,000"/>
@@ -178,7 +178,7 @@ Broadcasted: Sat, May 6th, 2023, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Ra
 <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>73 EurekaCast NOW! Hacktivism </title>
       <pubDate>Saturday, 30 April 2023 12:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/73-hacktivism.mp3" type="audio/mpeg" length="59,599,000"/>
@@ -213,7 +213,7 @@ Broadcasted: Sat, April 15th, 2023, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen
 <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>72 EurekaCast NOW! Brian Urlacher: What Happened to Sacking the Vote? </title>
       <pubDate>Saturday, 22 April 2023 12:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/72-what_happened_to_urlacher.mp3" type="audio/mpeg" length="66,853,000"/>
@@ -248,7 +248,7 @@ Broadcasted: Sat, April 8th, 2023, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen 
 <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>71 EurekaCast NOW! Battle of the Biotic</title>
       <pubDate>Sunday, 2 April 2023 23:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/71-battle_of_the_biotic.mp3" type="audio/mpeg" length="55,007,000"/>
@@ -283,7 +283,7 @@ Broadcasted: Sat, March 25th, 2023, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen
 <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>70 EurekaBeast NOW!</title>
       <pubDate>Sunday, 26 March 2023 23:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/70-mr_beast.mp3" type="audio/mpeg" length="70,526,000"/>
@@ -318,7 +318,7 @@ Broadcasted: Sat, March 18th, 2023, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen
 <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>69 EurekaCast NOW! UFOs</title>
       <pubDate>Sunday, 5 March 2023 23:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/69-ufos.mp3" type="audio/mpeg" length="60,000,000"/>
@@ -353,7 +353,7 @@ Broadcasted: Sat, February 25th, 2023, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lum
 <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>68 EurekaCast NOW! Romance</title>
       <pubDate>Monday, 27 February 2023 23:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/68-love.mp3" type="audio/mpeg" length="55,128,000"/>
@@ -388,7 +388,7 @@ Broadcasted: Sat, February 18th, 2023, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lum
 <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>66 EurekaCast NOW! Weezer</title>
       <pubDate>Sunday, 19 February 2023 23:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/66-weezer.mp3" type="audio/mpeg" length="57,937,000"/>
@@ -423,7 +423,7 @@ Broadcasted: Sat, January 28th, 2023, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lump
 <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>67 EurekaCast NOW! Solutions Bowl 2023</title>
       <pubDate>Sunday, 12 February 2023 23:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/67-solutions_bowl_2023.mp3" type="audio/mpeg" length="63,577,000"/>
@@ -458,7 +458,7 @@ Broadcasted: Sat, February 11th, 2023, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lum
 <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>65 EurekaCast NOW! Treasure Hunting</title>
       <pubDate>Sunday, 29 January 2023 22:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/65-treasure_hunting.mp3" type="audio/mpeg" length="52,809,000"/>
@@ -494,7 +494,7 @@ Broadcasted: Sat, January 14th, 2023, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lump
 <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>64 EurekaCast NOW! Dust</title>
       <pubDate>Sunday, 15 January 2023 22:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/64-dust.mp3" type="audio/mpeg" length="54,600,000"/>
@@ -529,7 +529,7 @@ Broadcasted: Sat, January 7th, 2023, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpe
 <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>63 EurekaCast NOW! Pilgrim</title>
       <pubDate>Sunday, 25 December 2022 22:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/63-pilgrim.mp3" type="audio/mpeg" length="56,555,848"/>
@@ -564,7 +564,7 @@ Broadcasted: Sat, November 26th, 2022, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lum
 <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>62 EurekaCast NOW! Truth: Part 2</title>
       <pubDate>Sunday, 4 December 2022 22:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/62-truth_pt2.mp3" type="audio/mpeg" length="66,725,088"/>
@@ -599,7 +599,7 @@ Broadcasted: Sat, November 3rd, 2022, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lump
 <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>61 EurekaCast NOW! Truth: Part 1</title>
       <pubDate>Sunday, 6 November 2022 22:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/61-truth_pt1.mp3" type="audio/mpeg" length="64,631,642"/>
@@ -634,7 +634,7 @@ Broadcasted: Sat, October 26th, 2022, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lump
 <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>60 EurekaCast NOW! Clouds</title>
       <pubDate>Sunday, 30 October 2022 22:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/60-clouds.mp3" type="audio/mpeg" length="55,481,712"/>
@@ -669,7 +669,7 @@ Broadcasted: Sat, October 15th, 2022, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lump
 <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>59 EurekaCast NOW! Cataclysm</title>
       <pubDate>Sunday, 16 October 2022 22:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/59-cataclysm.mp3" type="audio/mpeg" length="65,049,000"/>
@@ -704,7 +704,7 @@ Broadcasted: Sat, October 1st, 2022, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpe
 <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>58 EurekaCast NOW! Books</title>
       <pubDate>Sunday, 09 October 2022 22:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/58-books.mp3" type="audio/mpeg" length="73,4699,000"/>
@@ -739,7 +739,7 @@ Broadcasted: Sat, September 17th, 2022, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lu
 <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>57 EurekaCast NOW! Metropolis</title>
       <pubDate>Sunday, 02 October 2022 22:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/57-metropolis.mp3" type="audio/mpeg" length="72,910,634"/>
@@ -774,7 +774,7 @@ Broadcasted: Sat, September 10th, 2022, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lu
 <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>56 EurekaCast NOW! Extremism</title>
       <pubDate>Sunday, 25 September 2022 22:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/56-extremism.mp3" type="audio/mpeg" length="59,605,608"/>
@@ -808,7 +808,7 @@ Broadcasted: Sat, September 3rd, 2022, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lum
 <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>55 EurekaCast NOW! Summer 2022 Season Finale</title>
       <pubDate>Sunday, 10 July 2022 22:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/55-summer_2022_season_finale.mp3" type="audio/mpeg" length="59,605,608"/>
@@ -842,7 +842,7 @@ Broadcasted: Sat, May 14th, 2022, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen R
 <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>54 EurekaCast NOW! Microplastics</title>
       <pubDate>Monday, 4 July 2022 22:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/54-microplastics.mp3" type="audio/mpeg" length="59544748"/>
@@ -874,7 +874,7 @@ Broadcasted: Sat, May 7th, 2022, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Ra
 <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>53 EurekaCast NOW! Shattering Regimes</title>
       <pubDate>Sunday, 19 June 2022 12:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/53-shattering_regimes.mp3" type="audio/mpeg" length="62634000"/>
@@ -907,7 +907,7 @@ Broadcasted: Sat, April 30th, 2022, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen
 <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>52 EurekaCast NOW! Dr. Dolomite Teaches Children How To Survive </title>
       <pubDate>Sunday, 5 June 2022 12:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/52-dr_dolomite.mp3" type="audio/mpeg" length="58137000"/>
@@ -942,7 +942,7 @@ Broadcasted: Sat, April 23rd, 2022, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen
  <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>51 EurekaCast NOW! An Astralnaut Speaks</title>
       <pubDate>Sunday, 29 May 2022 12:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/51-an_astralnaut_speaks.mp3" type="audio/mpeg" length="58137000"/>
@@ -977,7 +977,7 @@ Broadcasted: Sat, March 12th, 2022, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen
  <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>50 EurekaCast NOW! The Descent of Men</title>
       <pubDate>Sunday, 8 May 2022 12:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/50-the_descent_of_men.mp3" type="audio/mpeg" length="43727000"/>
@@ -1010,7 +1010,7 @@ Broadcasted: Sat, April 9th, 2022, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen 
  <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>49 EurekaCast NOW! The Science of Takes</title>
       <pubDate>Sunday, 1 May 2022 08:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/49-science_of_takes.mp3" type="audio/mpeg" length="32589000"/>
@@ -1042,7 +1042,7 @@ Broadcasted: Sat, April 2nd, 2022, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen 
  <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>48 EurekaCast NOW! Changing the Game 2: Reloaded</title>
       <pubDate>Sunday, 9 April 2022 08:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/48-changing_the_game_2.mp3" type="audio/mpeg" length="32589000"/>
@@ -1074,7 +1074,7 @@ Broadcasted: Sat, March 26th, 2022, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen
 <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>47 EurekaCast NOW! Changing the Game</title>
       <pubDate>Sunday, 3 April 2022 08:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/47-changing_the_game_1.mp3" type="audio/mpeg" length="30679000"/>
@@ -1106,7 +1106,7 @@ Broadcasted: Sat, March 19th, 2022, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen
  <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>46 EurekaCast NOW! Chasing the Nuclear Storm</title>
       <pubDate>Sunday, 27 March 2022 08:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/46-chasing_the_nuclear_storm.mp3" type="audio/mpeg" length="34698000"/>
@@ -1138,7 +1138,7 @@ Broadcasted: Sat, March 5th, 2022, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen 
  <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>45 EurekaCast NOW! The Other Crypto</title>
       <pubDate>Sunday, 06 February 2022 08:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/45-the_other_crypto.mp3" type="audio/mpeg" length="46931000"/>
@@ -1170,7 +1170,7 @@ Broadcasted: Sat, January 29th, 2022, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lump
  <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>44 EurekaCast NOW! Bugspose</title>
       <pubDate>Sunday, 30 January 2022 08:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/44-bugspose.mp3" type="audio/mpeg" length="60645000"/>
@@ -1202,7 +1202,7 @@ Broadcasted: Sat, January 22nd, 2022, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lump
  <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>43 EurekaCast NOW! The James Webbisode</title>
       <pubDate>Sunday, 23 January 2022 08:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/43-the_james_webbisode.mp3" type="audio/mpeg" length="60645000"/>
@@ -1234,7 +1234,7 @@ Broadcasted: Sat, January 15th, 2022, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lump
  <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>The Scouring of Santa Claus, Indiana</title>
       <pubDate>Sunday, 16 January 2022 08:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/santa_claus_indiana_2022.mp3" type="audio/mpeg" length="60645000"/>
@@ -1268,7 +1268,7 @@ Broadcasted: Sat, January 1st and 8th, 2022, 20:00 - 21:00 CST on WLPN-LP 105.5 
  <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>42 EurekaCast NOW! The Omnicron Variant</title>
       <pubDate>Monday, 13 December 2021 08:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/42-the_omnicron_variant.mp3" type="audio/mpeg" length="58762000"/>
@@ -1300,7 +1300,7 @@ Broadcasted: Sat, December 4th, 2021, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lump
  <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>41 EurekaCast NOW! Mushrooms with Special Guest Dr. Joink</title>
       <pubDate>Monday, 29 November 2021 08:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/41-mushrooms_dr_joink.mp3" type="audio/mpeg" length="67364000"/>
@@ -1332,7 +1332,7 @@ Broadcasted: Sat, November 20th, 2021, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lum
  <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>40 EurekaCast NOW! BLOODLETTR: The Future of Medical Crowdfunding</title>
       <pubDate>Monday, 22 November 2021 08:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/40-bloodlettr_the_future_of_medical_crowd_funding.mp3" type="audio/mpeg" length="56012000"/>
@@ -1364,7 +1364,7 @@ Broadcasted: Sat, November 13th, 2021, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lum
  <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>39 EurekaCast NOW! The Sigma Grindset: The Science of Success</title>
       <pubDate>Friday, 29 October 2021 08:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/39-tips-for-success.mp3" type="audio/mpeg" length="58415000"/>
@@ -1397,7 +1397,7 @@ Broadcasted: Sat, October 16, 2021, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen
     <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>38 EurekaCast NOW! Pride Month: Be Gay, Make Change</title>
       <pubDate>Monday, 5 July 2021 16:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/38-pride_month_be_gay_make_change.mp3" type="audio/mpeg" length="48728000"/>
@@ -1429,7 +1429,7 @@ Broadcasted: Sat, June 12, 2021, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Ra
     <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>37 EurekaCast NOW! Dr. Knobbler Is Not Who He Says He Is</title>
       <pubDate>Sunday, 4 July 2021 16:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/37-knobbler_is_not_who_he_says_he_is.mp3" type="audio/mpeg" length="70738000"/>
@@ -1462,7 +1462,7 @@ Broadcasted: Sat, June 5, 2021, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Rad
      <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>36 EurekaCast NOW! Introducing the New Collaborative Virtual Thinkspace</title>
       <pubDate>Wednesday, 16 June 2021 16:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/36-collaborative_virtual_thinkspace.mp3" type="audio/mpeg" length="70738000"/>
@@ -1519,7 +1519,7 @@ Rebroadcasted: Mon, May 31, 2021, 20:00 - 21:00 CST on WIIT 88.9 FM Chicago, IL
      <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>35 EurekaCast NOW! Mother's Day Gift Guide </title>
       <pubDate>Wednesday, 12 May 2021 16:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/35-mothers_day_gift_guide.mp3" type="audio/mpeg" length="46636000"/>
@@ -1553,7 +1553,7 @@ Rebroadcasted: Mon, May 10, 2021, 20:00 - 21:00 CST on WIIT 88.9 FM Chicago, IL
      <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>34 EurekaCast NOW! Film Science Awards Week </title>
       <pubDate>Wednesday, 5 May 2021 16:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/34-excellence_in_film_science_awards.mp3" type="audio/mpeg" length="53683000"/>
@@ -1587,7 +1587,7 @@ Rebroadcasted: Mon, April 26, 2021, 20:00 - 21:00 CST on WIIT 88.9 FM Chicago, I
      <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>33 EurekaCast NOW! Safety Week</title>
       <pubDate>Wednesday, 28 April 2021 16:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/33-safety_week.mp3" type="audio/mpeg" length="45506000"/>
@@ -1621,7 +1621,7 @@ Rebroadcasted: Mon, April 26, 2021, 20:00 - 21:00 CST on WIIT 88.9 FM Chicago, I
      <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>32 EurekaCast NOW! Solar Punk Burial</title>
       <pubDate>Wednesday, 21 April 2021 16:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/32-solar_punk_burial.mp3" type="audio/mpeg" length="51299000"/>
@@ -1655,7 +1655,7 @@ Rebroadcasted: Mon, April 19, 2021, 20:00 - 21:00 CST on WIIT 88.9 FM Chicago, I
 <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>31 EurekaCast NOW! The Simon Amy Center for Honesty Diagnostics</title>
       <pubDate>Wednesday, 14 April 2021 16:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/31-center_for_honesty_diagnostics.mp3" type="audio/mpeg" length="39697000"/>
@@ -1689,7 +1689,7 @@ Rebroadcasted: Mon, April 12, 2021, 20:00 - 21:00 CST on WIIT 88.9 FM Chicago, I
      <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>30 EurekaCast NOW! The State of STEM Education</title>
       <pubDate>Wednesday, 31 March 2021 16:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/30-stem_education.mp3" type="audio/mpeg" length="38487000"/>
@@ -1723,7 +1723,7 @@ Rebroadcasted: Mon, March 29, 2021, 20:00 - 21:00 CST on WIIT 88.9 FM Chicago, I
      <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>29 EurekaCast NOW! First Annual Citizen Science Conference</title>
       <pubDate>Wednesday, 17 March 2021 16:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/29-citizen_science_conference_2021.mp3" type="audio/mpeg" length="39677000"/>
@@ -1757,7 +1757,7 @@ Rebroadcasted: Mon, March 15, 2021, 20:00 - 21:00 CST on WIIT 88.9 FM Chicago, I
      <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>28 EurekaCast NOW! Questions for Extraterrestrials</title>
       <pubDate>Wednesday, 10 March 2021 16:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/28-questions_for_extraterrestrials.mp3" type="audio/mpeg" length="37129000"/>
@@ -1791,7 +1791,7 @@ Rebroadcasted: Mon, March 8, 2021, 20:00 - 21:00 CST on WIIT 88.9 FM Chicago, IL
      <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>27 EurekaCast NOW! Optimize Your Lounging</title>
       <pubDate>Wednesday, 3 March 2021 16:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/27-optimize_your_lounging.mp3" type="audio/mpeg" length="37129000"/>
@@ -1825,7 +1825,7 @@ Rebroadcasted: Mon, March 1, 2021, 20:00 - 21:00 CST on WIIT 88.9 FM Chicago, IL
      <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>26 EurekaCast NOW! Making Data Sexy</title>
       <pubDate>Wednesday, 24 February 2021 16:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/26-making_data_sexy.mp3" type="audio/mpeg" length="45994000"/>
@@ -1859,7 +1859,7 @@ Rebroadcasted: Mon, Feb 22, 2021, 20:00 - 21:00 CST on WIIT 88.9 FM Chicago, IL
     <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>25 EurekaCast NOW! Relationship Science</title>
       <pubDate>Wednesday, 17 February 2021 16:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/25-relationship_science.mp3" type="audio/mpeg" length="45994000"/>
@@ -1893,7 +1893,7 @@ Rebroadcasted: Mon, Feb 15, 2021, 20:00 - 21:00 CST on WIIT 88.9 FM Chicago, IL
     <item>
         <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>24 EurekaCast NOW! Chrono-Consultancy</title>
       <pubDate>Wednesday, 10 February 2021 16:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/24-chrono-consultant.mp3" type="audio/mpeg" length="43834000"/>
@@ -1927,7 +1927,7 @@ Rebroadcasted: Mon, Feb 8, 2021, 20:00 - 21:00 CST on WIIT 88.9 FM Chicago, IL
         <item>
       <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>23 EurekaCast NOW! The Bot-volution</title>
       <pubDate>Wednesday, 3 February 2021 16:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/23-bots-and-watch.mp3" type="audio/mpeg" length="44750000"/>
@@ -1964,7 +1964,7 @@ Rebroadcasted: Mon, Feb 1, 2021, 20:00 - 21:00 CST on WIIT 88.9 FM Chicago, IL
     <item>
       <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>22 EurekaCast NOW! We Welcome WatchToo</title>
       <pubDate>Wednesday, 27 January 2021 16:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/22-we_welcome_watchtoo.mp3" type="audio/mpeg" length="41350000"/>
@@ -1998,7 +1998,7 @@ Rebroadcasted: Mon, Jan 25, 2021, 20:00 - 21:00 CST on WIIT 88.9 FM Chicago, IL
     <item>
       <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>21 EurekaCast NOW! Tips for Discussing the Vaccines</title>
       <pubDate>Wednesday, 20 January 2021 16:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/21-tips_for_discussing_the_vaccine.mp3" type="audio/mpeg" length="47031000"/>
@@ -2032,7 +2032,7 @@ Rebroadcasted: Mon, Jan 18, 2021, 20:00 - 21:00 CST on WIIT 88.9 FM Chicago, IL
 <item>
       <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>Eureka Hindsight 2020</title>
       <pubDate>Wednesday, 6 January 2021 16:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/hindsight_2020.mp3" type="audio/mpeg" length="42049000"/>
@@ -2067,7 +2067,7 @@ Rebroadcasted: Mon, Jan 4, 2021, 20:00 - 21:00 CST on WIIT 88.9 FM Chicago, IL
 <item>
       <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>The Making of the Newer Normal Holiday Special</title>
       <pubDate>Saturday, 25 December 2020 16:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/The_Making_of_the_Newer_Normal_Holiday_Special.mp3" type="audio/mpeg" length="55066000"/>
@@ -2104,7 +2104,7 @@ Rebroadcasted: Dec 26, 2020 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, 
 <item>
       <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>20 EurekaCast NOW! Holiday Science and Tech</title>
       <pubDate>Wed, 23 December 2020 17:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/20-holiday_tech_and_science.mp3" type="audio/mpeg" length="47280000"/>
@@ -2137,7 +2137,7 @@ Rebroadcasted: Dec 21, 2020 20:00 - 21:00 CST on WIIT 88.9 FM Chicago, IL</p>
 <item>
       <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>Promo: The Making of the Newer Normal Holiday Special</title>
       <pubDate>Wed, 16 December 2020 16:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/safer_santa_promo_long.mp3" type="audio/mpeg" length="1923000"/>
@@ -2167,7 +2167,7 @@ Promo: <i>The Making of the Newer Normal Holiday Special</i>, airing LIVE on <a 
 <item>
       <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>19 EurekaCast NOW! The Making of a Solar Punk Military</title>
       <pubDate>Wed, 9 December 2020 16:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/19-a_solar_punk_military.mp3" type="audio/mpeg" length="48696000"/>
@@ -2201,7 +2201,7 @@ Rebroadcasted: Dec 6, 2020 20:00 - 21:00 CST on WIIT 88.9 FM Chicago, IL</p>
 <item>
       <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>18 EurekaCast NOW! Making the Most of Your Holiday Isolation</title>
       <pubDate>Sun, 6 December 2020 16:00:00 CST</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/18-making_the_most_of_your_holiday_isolation.mp3" type="audio/mpeg" length="50572000"/>
@@ -2235,7 +2235,7 @@ Rebroadcasted: Nov 30, 2020 20:00 - 21:00 CST on WIIT 88.9 FM Chicago, IL</p>
 <item>
       <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>17 EurekaCast NOW! Karmalogical Advances</title>
       <pubDate>Wed, 25 Nov 2020 16:00:00 GMT</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/17-karmalogy.mp3" type="audio/mpeg" length="49288000"/>
@@ -2267,7 +2267,7 @@ Originally Aired:  Nov 21, 2020 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Rad
 <item>
       <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>16 EurekaCast NOW! City Chute</title>
       <pubDate>Wed, 18 Nov 2020 16:00:00 GMT</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/16-city_chute.mp3" type="audio/mpeg" length="51324000"/>
@@ -2299,7 +2299,7 @@ Originally Aired:  Nov 14, 2020 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Rad
           <item>
       <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>15 EurekaCast NOW! Enlightenment Sculpt</title>
       <pubDate>Wed, 11 Nov 2020 16:00:00 GMT</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/15-enlightenment_sculpt.mp3" type="audio/mpeg" length="48349000"/>
@@ -2331,7 +2331,7 @@ Originally Aired:  Nov 7, 2020 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radi
          <item>
       <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>14 EurekaCast NOW! Innovate Political Analysis</title>
       <pubDate>Wed, 4 Nov 2020 16:00:00 GMT</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/14-politics.mp3" type="audio/mpeg" length="34700000" />
@@ -2363,7 +2363,7 @@ Originally Aired:  Oct 31, 2020 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Rad
      <item>
       <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>13 EurekaCast NOW! Success Stories</title>
       <pubDate>Wed, 28 Oct 2020 16:00:00 GMT</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/13-newer_normal_success_stories.mp3" type="audio/mpeg" length="32580000" />
@@ -2399,7 +2399,7 @@ Originally Aired:  Oct 24, 2020 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Rad
                   <item>
       <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>12 EurekaCast NOW! Fiberglass: A Textile for Living</title>
       <pubDate>Sat, 24 Oct 2020 11:00:00 GMT</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/12-masks_pt2.mp3" type="audio/mpeg" length="33640000" />
@@ -2428,7 +2428,7 @@ https://rodydavis.github.io/creative_engineering
          <item>
       <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>11 EurekaCast NOW! Tech Brothers Mask PSA</title>
       <pubDate>Sat, 17 Oct 2020 11:00:00 GMT</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/11-masks.mp3" type="audio/mpeg" length="35000000" />
@@ -2457,7 +2457,7 @@ https://rodydavis.github.io/creative_engineering
     <item>
       <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>10 EurekaCast NOW! New Sun Theory</title>
       <pubDate>Sat, 26 Sep 2020 11:00:00 GMT</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/10-new_sun_theory.mp3" type="audio/mpeg" length="3644000" />
@@ -2487,7 +2487,7 @@ https://rodydavis.github.io/creative_engineering
     <item>
       <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>9 EurekaCast NOW! Market Sciences</title>
       <pubDate>Sat, 19 Sep 2020 11:00:00 GMT</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/9-science_of_the_market.mp3" type="audio/mpeg" length="32200000" />
@@ -2516,7 +2516,7 @@ https://rodydavis.github.io/creative_engineering
      <item>
       <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>8 EurekaCast NOW! Humor</title>
       <pubDate>Sat, 12 Sep 2020 11:00:00 GMT</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/8-humor.mp3" type="audio/mpeg" length="36110000" />
@@ -2546,7 +2546,7 @@ https://rodydavis.github.io/creative_engineering
      <item>
       <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>7 EurekaCast NOW! The Storm</title>
       <pubDate>Sat, 5 Sep 2020 11:00:00 GMT</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/7-the_storm.mp3" type="audio/mpeg" length="33640000" />
@@ -2575,7 +2575,7 @@ https://rodydavis.github.io/creative_engineering
     <item>
       <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>6 EurekaCast NOW! guy5...counterpoint</title>
       <pubDate>Sat, 29 Aug 2020 11:00:00 GMT</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/6-guy5_pt2.mp3" type="audio/mpeg" length="32670000" />
@@ -2605,7 +2605,7 @@ https://rodydavis.github.io/creative_engineering
         <item>
       <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>5 EurekaCast NOW! The guy5 Network</title>
       <pubDate>Sat, 22 Aug 2020 11:00:00 GMT</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/5-guy5.mp3" type="audio/mpeg" length="35730000" />
@@ -2634,7 +2634,7 @@ https://rodydavis.github.io/creative_engineering
     <item>
       <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>4 EurekaCast NOW! Sweat Fasting with Sweatfast</title>
       <pubDate>Sat, 15 Aug 2020 11:00:00 GMT</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/4-sweat_fast.mp3" type="audio/mpeg" length="35980000" />
@@ -2662,7 +2662,7 @@ https://rodydavis.github.io/creative_engineering
     <item>
       <author>Kai Hubris</author>
       <itunes:author>Kai Hubris, Rowan Meadowlark, EurekaCast NOW!</itunes:author>
-      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png">
+      <itunes:image href="http://feraducatt.github.io/eurekacast/img/ecn_img.png"></itunes:image>
       <title>3 EurekaCast NOW! The Common Core in a Newer Normal</title>
       <pubDate>Sat, 8 Aug 2020 11:00:00 GMT</pubDate>
       <enclosure url="https://feraducatt.github.io/eurekacast/audio/3-common_core.mp3" type="audio/mpeg" length="34420000" />
