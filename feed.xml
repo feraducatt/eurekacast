@@ -38,6 +38,31 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
     <link>https://awcyfm.com/</link>
     <itunes:image href="https://raw.githubusercontent.com/feraducatt/eurekacast/master/img/awcyfm_icon.png" />
 <item>
+        <author>AWCY FM</author>
+        <itunes:author>AWCY FM</itunes:author>
+        <title>Solutions Bowl 2024</title>
+        <pubDate>Sunday, 17 March 2024 11:00:00 CST</pubDate>
+        <enclosure url="https://feraducatt.github.io/eurekacast/audio/solutions_bowl_2024.mp3" type="audio/mpeg" length="67,967,000"/>
+        <itunes:duration>00.58.14.00</itunes:duration>
+        <guid isPermaLink="false">sb2024</guid>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://feraducatt.github.io/eurekacast/img/awcyfm_icon.png"></itunes:image>
+        <description>
+                It's that time of the year: The AWCY FM Solutions Bowl! We've invited the best and brightest minds on the program to tackle the issues that face the world today.
+                Broadcasted: Sat, March, 2nd, 2024, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL 
+                <a href="https://www.twitch.tv/awcyfm">twitch.tv/awcyfm</a>
+        </description>
+        <content:encoded>
+                <![CDATA[ 
+                        <p>
+                        It's that time of the year: The AWCY FM Solutions Bowl! We've invited the best and brightest minds on the program to tackle the issues that face the world today.<br>
+                        Broadcasted: Sat, March, 2nd, 2024, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL
+                        <a href="https://www.twitch.tv/awcyfm">twitch.tv/awcyfm</a>
+                        </p>
+                ]]>
+        </content:encoded>
+</item>
+<item>
         <author>AWCY FM, Jeff Minds</author>
         <itunes:author>AWCY FM, Jeff Minds</itunes:author>
         <title>4 Minds on the Masters: Kit Kat Minds-Shrock</title>
