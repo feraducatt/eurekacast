@@ -41,8 +41,8 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
         <author>AWCY FM</author>
         <itunes:author>AWCY FM</itunes:author>
         <title>3 AWCY FM News: The Chicago Middle School Science Fair</title>
-        <pubDate>Sunday, 21 March 2024 12:00:00 CST</pubDate>
-        <enclosure url="https://feraducatt.github.io/eurekacast/audio/motm3-dirk_masterson.mp3" type="audio/mpeg" length="71,276,000"/>
+        <pubDate>Sunday, 21 April 2024 12:00:00 CST</pubDate>
+        <enclosure url="https://feraducatt.github.io/eurekacast/audio/awcyfmnews-3.mp3" type="audio/mpeg" length="71,276,000"/>
         <itunes:duration>01.01.24.00</itunes:duration>
         <guid isPermaLink="false">awcyfmnews3</guid>
         <itunes:explicit>no</itunes:explicit>
