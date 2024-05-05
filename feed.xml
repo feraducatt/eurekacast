@@ -40,6 +40,33 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <item>
         <author>AWCY FM</author>
         <itunes:author>AWCY FM</itunes:author>
+        <title>2 AWCY FM News: The Blackhawks Losing Streak</title>
+        <pubDate>Sunday, 5 May 2024 12:00:00 CST</pubDate>
+        <enclosure url="https://feraducatt.github.io/eurekacast/audio/awcyfmnews-2.mp3" type="audio/mpeg" length="58,066,000"/>
+        <itunes:duration>00.51.00.00</itunes:duration>
+        <guid isPermaLink="false">awcyfmnews2</guid>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://feraducatt.github.io/eurekacast/img/awcyfm_icon.png"></itunes:image>
+        <description>
+                AWCY FM is Chicago's largest media panopticon, and last line of defense. This is your Science, Technology, Entertainment, Art, News, and Interest, Chicago. This is all for you.
+                Tonight on AWCY FM: We discuss the Chicago Blackhawks' losing streak and the many theories surrounding it. This, the headlines, the Copro Community Calendar, and more.
+                Broadcasted: Sat, December, 2nd, 2024, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL 
+                <a href="https://www.twitch.tv/awcyfm">twitch.tv/awcyfm</a>
+        </description>
+        <content:encoded>
+                <![CDATA[ 
+                        <p>
+                        AWCY FM is Chicago's largest media panopticon, and last line of defense. This is your Science, Technology, Entertainment, Art, News, and Interest, Chicago. This is all for you.<br>
+                        Tonight on AWCY FM: We discuss the Chicago Blackhawks' losing streak and the many theories surrounding it. This, the headlines, the Copro Community Calendar, and more.<br>
+                        Broadcasted: Sat, December, 2nd, 2024, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL 
+                        <a href="https://www.twitch.tv/awcyfm">twitch.tv/awcyfm</a>
+                        </p>
+                ]]>
+        </content:encoded>
+</item>
+<item>
+        <author>AWCY FM</author>
+        <itunes:author>AWCY FM</itunes:author>
         <title>3 AWCY FM News: The Chicago Middle School Science Fair</title>
         <pubDate>Sunday, 21 April 2024 12:00:00 CST</pubDate>
         <enclosure url="https://feraducatt.github.io/eurekacast/audio/awcyfmnews-3.mp3" type="audio/mpeg" length="71,276,000"/>
