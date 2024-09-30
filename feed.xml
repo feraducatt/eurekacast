@@ -28,10 +28,10 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
     <itunes:new-feed-url>https://feraducatt.github.io/eurekacast/feed.xml</itunes:new-feed-url>
     <copyright>AWCY FM</copyright>
     <description>
-<![CDATA[ <p>Your news & interest, Chicago</p> ]]>
+<![CDATA[ <p>AWCY FM is a news media conglomerate that exists in a strange and sometimes unsettling version of the city of Chicago. Each month, we bring you news, entertainment, and more of the content you need. We are your local panopticon, and we see you, Chicago.</p> ]]>
 </description>
 <itunes:type>episodic</itunes:type>
-<itunes:summary>CHICAGO’S LOCAL PANOPTICON.</itunes:summary>
+<itunes:summary>AWCY FM is a news media conglomerate that exists in a strange and sometimes unsettling version of the city of Chicago. Each month, we bring you news, entertainment, and more of the content you need. We are your local panopticon, and we see you, Chicago.</itunes:summary>
     <googleplay:image href="https://raw.githubusercontent.com/feraducatt/eurekacast/master/icons/awcyfm_icon.png" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
@@ -40,6 +40,60 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <item>
         <author>AWCY FM</author>
         <itunes:author>AWCY FM</itunes:author>
+<<<<<<< HEAD
+        <title>4 AWCY FM News: New BBQ Ordinances</title>
+        <pubDate>Monday, 5 May 2024 12:00:00 CST</pubDate>
+        <enclosure url="https://feraducatt.github.io/eurekacast/audio/awcyfmnews-4.mp3" type="audio/mpeg" length="82,875,000"/>
+        <itunes:duration>01.08.42.20</itunes:duration>
+        <guid isPermaLink="false">awcyfmnews4</guid>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://feraducatt.github.io/eurekacast/img/awcyfm_icon.png"></itunes:image>
+        <description>
+                AWCY FM is a news media conglomerate that exists in a strange and sometimes unsettling version of the city of Chicago.
+                Tonight on AWCY FM: A series of Chicago city ordinances go in effect this summer, the target? Your BBQ! Learn what the mayor's office is demanding this time around. That and our C2E2 coverage, and interview with an artist whose work is being installed in the 13th ward, Hypnosis with Heidi, all ending with a HILARIOUS segment from our morning chuckleheads: PB and the Jerk.
+                Broadcasted: Sat, May 11th, 2024, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL 
+                <a href="https://www.twitch.tv/awcyfm">twitch.tv/awcyfm</a>
+        </description>
+        <content:encoded>
+                <![CDATA[ 
+                        <p>
+                    AWCY FM is a news media conglomerate that exists in a strange and sometimes unsettling version of the city of Chicago.<br>
+                        Tonight on AWCY FM: A series of Chicago city ordinances go in effect this summer, the target? Your BBQ! Learn what the mayor's office is demanding this time around. That and our C2E2 coverage, and interview with an artist whose work is being installed in the 13th ward, Hypnosis with Heidi, all ending with a HILARIOUS segment from our morning chuckleheads: PB and the Jerk.<br>
+                        Broadcasted: Sat, May 11th, 2024, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL 
+                        </p>
+                ]]>
+        </content:encoded>
+</item>
+<item>
+        <author>AWCY FM</author>
+        <itunes:author>AWCY FM</itunes:author>
+        <itunes:image href="http://feraducatt.github.io/eurekacast/img/awcyfm_icon.png"></itunes:image>
+        <title>Runefire 2000: A Level Eater Special</title>
+        <pubDate>Monday, 30 September 2024 00:00:00 CST</pubDate>
+        <enclosure url="https://drive.google.com/file/d/1w3J4yn7NNXQ-UxLqgoMq5o0oMtByq2Fq/view?usp=sharing" type="audio/mpeg" length="116,770,271"/>
+        <itunes:duration>01.00.49.00</itunes:duration>
+        <guid isPermaLink="false">loto1</guid>
+        <itunes:explicit>no</itunes:explicit>
+        <description>
+                Happy Level Eater! Join Jack Einstein and Alex Games as they celebrate every TTRPGers favorite holiday with a live-play of one of the most anticipated systems this year: Legend of the Overrune, Runefire 2000 expantion.
+                Broadcasted: Sat, February 10th, 2024, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL 
+                <a href="https://www.twitch.tv/awcyfm">twitch.tv/awcyfm</a>
+        </description>
+        <content:encoded>
+        <![CDATA[
+                <p>
+               Happy Level Eater! Join Jack Einstein and Alex Games as they celebrate every TTRPGers favorite holiday with a live-play of one of the most anticipated systems this year: Legend of the Overrune, the Runefire 2000 expantion.<br>
+                Broadcasted: Sat, February 10th, 2024, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL 
+                <a href="https://www.twitch.tv/awcyfm">twitch.tv/awcyfm</a>
+                </p>
+        ]]>
+        </content:encoded>
+</item>
+<item>
+        <author>AWCY FM</author>
+        <itunes:author>AWCY FM</itunes:author>
+=======
+>>>>>>> parent of 343e314 (loto ep)
         <title>2 AWCY FM News: The Blackhawks Down</title>
         <pubDate>Sunday, 5 May 2024 12:00:00 CST</pubDate>
         <enclosure url="https://feraducatt.github.io/eurekacast/audio/awcyfmnews-2.mp3" type="audio/mpeg" length="58,066,000"/>
