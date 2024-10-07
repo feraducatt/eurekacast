@@ -40,14 +40,13 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <item>
         <author>AWCY FM</author>
         <itunes:author>AWCY FM</itunes:author>
-<<<<<<< HEAD
+        <itunes:image href="http://feraducatt.github.io/eurekacast/img/awcyfm_icon.png"></itunes:image>
         <title>4 AWCY FM News: New BBQ Ordinances</title>
         <pubDate>Monday, 5 May 2024 12:00:00 CST</pubDate>
         <enclosure url="https://feraducatt.github.io/eurekacast/audio/awcyfmnews-4.mp3" type="audio/mpeg" length="82,875,000"/>
         <itunes:duration>01.08.42.20</itunes:duration>
         <guid isPermaLink="false">awcyfmnews4</guid>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="http://feraducatt.github.io/eurekacast/img/awcyfm_icon.png"></itunes:image>
         <description>
                 AWCY FM is a news media conglomerate that exists in a strange and sometimes unsettling version of the city of Chicago.
                 Tonight on AWCY FM: A series of Chicago city ordinances go in effect this summer, the target? Your BBQ! Learn what the mayor's office is demanding this time around. That and our C2E2 coverage, and interview with an artist whose work is being installed in the 13th ward, Hypnosis with Heidi, all ending with a HILARIOUS segment from our morning chuckleheads: PB and the Jerk.
@@ -92,15 +91,13 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <item>
         <author>AWCY FM</author>
         <itunes:author>AWCY FM</itunes:author>
-=======
->>>>>>> parent of 343e314 (loto ep)
+        <itunes:image href="http://feraducatt.github.io/eurekacast/img/awcyfm_icon.png"></itunes:image>
         <title>2 AWCY FM News: The Blackhawks Down</title>
         <pubDate>Sunday, 5 May 2024 12:00:00 CST</pubDate>
         <enclosure url="https://feraducatt.github.io/eurekacast/audio/awcyfmnews-2.mp3" type="audio/mpeg" length="58,066,000"/>
         <itunes:duration>00.51.00.00</itunes:duration>
         <guid isPermaLink="false">awcyfmnews2</guid>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="http://feraducatt.github.io/eurekacast/img/awcyfm_icon.png"></itunes:image>
         <description>
                 AWCY FM is Chicago's largest media panopticon, and last line of defense. This is your Science, Technology, Entertainment, Art, News, and Interest, Chicago. This is all for you.
                 Tonight on AWCY FM: We discuss the Chicago Blackhawks' losing streak and the many theories surrounding it. This, the headlines, the Copro Community Calendar, and more.
