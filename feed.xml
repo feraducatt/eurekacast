@@ -40,6 +40,31 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <item>
         <author>AWCY FM</author>
         <itunes:author>AWCY FM</itunes:author>
+        <itunes:image href="://feraducatt.github.io/eurekacast/img/awcyfm_icon.png"></itunes:image>
+        <title>The Body Project 1</title>
+        <pubDate>Sunday, 16 February 2025 12:00:00 CST</pubDate>
+        <enclosure url="https://feraducatt.github.io/eurekacast/audio/TBP-1-with-intro.mp3" type="audio/mpeg" length="70,959,000"/>
+        <itunes:duration>01.02.21</itunes:duration>
+        <guid isPermaLink="false">tbp1</guid>
+        <itunes:explicit>no</itunes:explicit>
+        <description>
+                This is now The Body Project. 
+                Broadcasted: Sat, February  8th, 2025, 20:00 - 21:00 CST on WLPN-LP 105.5 FM Lumpen Radio, Chicago IL 
+                <a href="https://www.twitch.tv/awcyfm">twitch.tv/awcyfm</a>
+        </description>
+        <content:encoded>
+                <![CDATA[ 
+                        <p>
+                    AWCY FM is a news media conglomerate that exists in a strange and sometimes unsettling version of the city of Chicago.<br>
+               Tonight on AWCY FM: our election post-mortem episode. Grab your scalpels and join Cam and R as they poke around Chicago on the slab.<br>
+                Broadcasted: Sat, December 7th, 2024, 20:00 - 21:00 
+                        </p>
+                ]]>
+        </content:encoded>
+</item>
+<item>
+        <author>AWCY FM</author>
+        <itunes:author>AWCY FM</itunes:author>
         <itunes:image href="http://feraducatt.github.io/eurekacast/img/awcyfm_icon.png"></itunes:image>
         <title>6 AWCY FM News: Chicago on the Slab</title>
         <pubDate>Sunday, 15 December 2024 12:00:00 CST</pubDate>
